@@ -1,8 +1,2 @@
-## Installation and Configuration Splunk
-<hr>
-</hr>
 
-## Setp 1
-Download Splunk Enterprise in your Ubuntu System
-After that unzip it with command 
-<code>sudo tar xvfz <zip file name> -C /opt</code>
+<h1>Hello world</h1>
