@@ -11,14 +11,13 @@ In this module, install both systems and configure Splunk on an Ubuntu machine.
   <li>Windows System</li>
 </ul>
 
-<h1>configured Splunk Enterprise</h1>
+<h1>Configured Splunk Enterprise</h1>
 Here, the Splunk download is in the Ubuntu system for centralized log monitoring.
 <h2>Step by Step</h2>
 <ul>
 <li>Downlod Splunk Enterprise from website</li>
-<li>Extract it
+<li>Extract it</li>
 <code>sudo tar xvfz <splunk file name> -C /opt</code>
-</li>
   
 <li></li>
 <li></li>
