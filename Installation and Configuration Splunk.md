@@ -3,6 +3,7 @@
 In this module, install both systems and configure Splunk on an Ubuntu machine.
 <hr>
 </hr>
+
 <h1> SOC Lab Setup Required </h1>
 <ul>
   <li>Virtual Box</li>
@@ -10,9 +11,9 @@ In this module, install both systems and configure Splunk on an Ubuntu machine.
   <li>Windows System</li>
 </ul>
 
-#configured Splunk Enterprise
+<h1>configured Splunk Enterprise</h1>
 Here, the Splunk download is in the Ubuntu system for centralized log monitoring.
-#Step by Step
+<h2>Step by Step</h2>
 <ul>
 <li>Downlod Splunk Enterprise from website</li>
 <li>Extract it
