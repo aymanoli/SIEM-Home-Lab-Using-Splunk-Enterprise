@@ -33,4 +33,4 @@ Here, the Splunk download is in the Ubuntu system for centralized log monitoring
 </hr>
   
 <h1>Set up Splunk Universal Forwarder</h1>
-<p> Now you go to your Windows machine and download the Splunk universal forwarder from your browser and install the software in your Windows system as like other installation software. <strong style="color:red;"> In the installation process, they asked for your machine IP, then you put here your Ubuntu system IP for forwarding the logs and events to your Ubuntu system.</strong> </p>
+<p style="color:blue;"> Now you go to your Windows machine and download the Splunk universal forwarder from your browser and install the software in your Windows system as like other installation software. <strong style="color:red;"> In the installation process, they asked for your machine IP, then you put here your Ubuntu system IP for forwarding the logs and events to your Ubuntu system.</strong> </p>
