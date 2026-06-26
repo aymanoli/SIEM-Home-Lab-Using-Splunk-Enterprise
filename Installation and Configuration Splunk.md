@@ -17,7 +17,7 @@ Here, the Splunk download is in the Ubuntu system for centralized log monitoring
 <ul>
 <li>Downlod Splunk Enterprise from website</li>
 <li>Extract it</li>
-<div>sudo tar xvfz <splunk file name> -C /opt</div>
+<div> <code>sudo tar xvfz <splunk file name> -C /opt </code</div>
   
 <li></li>
 <li></li>
