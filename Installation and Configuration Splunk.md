@@ -1,2 +1,7 @@
-
-<h1>Hello world</h1>
+# Creating a SOC Home Lab
+## Tools
+<hr>
+</hr>
+* Virtual Box
+* Unbuntu Linux System
+* Windows System
