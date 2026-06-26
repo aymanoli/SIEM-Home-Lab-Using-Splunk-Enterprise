@@ -1,4 +1,4 @@
-# Creating a SOC Home Lab
+# Installation and Configuration Splunk
 ## Tools
 <hr>
 </hr>
