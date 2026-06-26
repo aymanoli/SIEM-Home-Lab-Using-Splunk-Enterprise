@@ -1,10 +1,11 @@
-# Installation and Configuration Splunk
-# Objectives
+<h1>Installation and Configuration Splunk</h1>
+<h2> Objectives</h2>
 In this module, install both systems and configure Splunk on an Ubuntu machine.
 <hr>
 </hr>
 
 <h1> SOC Lab Setup Required </h1>
+Download all of this in your host system
 <ul>
   <li>Virtual Box</li>
   <li>Unbuntu Linux System</li>
