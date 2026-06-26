@@ -3,7 +3,7 @@
 In this module, install both systems and configure Splunk on an Ubuntu machine.
 <hr>
 </hr>
-## SOC Lab Setup Required
+<h1> SOC Lab Setup Required </h1>
 <ul>
   <li>Virtual Box</li>
   <li>Unbuntu Linux System</li>
