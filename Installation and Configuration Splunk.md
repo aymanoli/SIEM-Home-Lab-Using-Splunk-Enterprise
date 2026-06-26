@@ -1,9 +1,29 @@
 # Installation and Configuration Splunk
 # Objectives
 In this module, install both systems and configure Splunk on an Ubuntu machine.
-## Tools
 <hr>
 </hr>
-* Virtual Box
-* Unbuntu Linux System
-* Windows System
+## SOC Lab Setup Required
+<ul>
+  <li>Virtual Box</li>
+  <li>Unbuntu Linux System</li>
+  <li>Windows System</li>
+</ul>
+
+#configured Splunk Enterprise
+Here, the Splunk download is in the Ubuntu system for centralized log monitoring.
+#Step by Step
+<ul>
+<li>Downlod Splunk Enterprise from website</li>
+<li>Extract it
+<code>sudo tar xvfz <splunk file name> -C /opt</code>
+</li>
+  
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+
+  
+</ul>
