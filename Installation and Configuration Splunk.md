@@ -1,10 +1,12 @@
-<h1>Installation and Configuration Splunk</h1>
-<h2> Objectives</h2>
+# Installation and Configuration Splunk
+
+## Objectives
 In this module, install both systems and configure Splunk on an Ubuntu machine.
 <hr>
 </hr>
 
-<h1> SOC Lab Setup Required </h1>
+## SOC Lab Setup Required 
+
 Download all of this in your host system
 <ul>
   <li>Virtual Box</li>
@@ -14,9 +16,10 @@ Download all of this in your host system
 <hr>
 </hr>
 
-<h1>Configured Splunk Enterprise</h1>
+## Configured Splunk Enterprise
+
 Here, the Splunk download is in the Ubuntu system for centralized log monitoring.
-<h2>Step by Step</h2>
+## Step by Step
 <ul>
 <li>Downlod Splunk Enterprise from website</li>
 <li>Extract it by this command</li>
@@ -38,5 +41,5 @@ sudo ./splunk --accept-license
 <hr>
 </hr>
   
-<h1>Set up Splunk Universal Forwarder</h1>
+## Set up Splunk Universal Forwarder
 <p> Now you go to your Windows machine and download the Splunk universal forwarder from your browser and install the software in your Windows system as like other installation software. <strong> In the installation process, they asked for your machine IP, then you put here your Ubuntu system IP for forwarding the logs and events to your Ubuntu system.</strong> </p>
