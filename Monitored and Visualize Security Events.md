@@ -14,44 +14,7 @@
 
 <h2>Monitor with SPL queries</h2>
 <p>Use SPL queries to complete the following analysis</p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic Splunk Search Queries</title>
-    <style>
-        body{
-            font-family: Arial, Helvetica, sans-serif;
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 20px;
-            background: #f4f6f9;
-            color: #333;
-            line-height: 1.6;
-        }
-        h1{
-            text-align: center;
-            color: #0f62fe;
-        }
-        .query{
-            background: #fff;
-            border-left: 5px solid #0f62fe;
-            padding: 15px;
-            margin-bottom: 20px;
-            border-radius: 6px;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-        }
-        code{
-            display: block;
-            background: #eef2f7;
-            padding: 10px;
-            margin-top: 8px;
-            border-radius: 4px;
-            font-size: 15px;
-        }
-    </style>
-</head>
+
 <body>
 
 <h1>Basic Splunk Search Queries</h1>
