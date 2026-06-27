@@ -15,40 +15,8 @@
 <h2>Monitor with SPL queries</h2>
 <p>Use SPL queries to complete the following analysis</p>
 
-<body>
+##Searches events in the http_sample index where the file is login.php.
 
-<h1>Basic Splunk Search Queries</h1>
-
-<div class="query">
-    <h2>1. Search by File Name</h2>
-    <p>Searches the <strong>http_sample</strong> index for events where the requested file is <strong>login.php</strong>.</p>
-    <code>index="http_sample" file="login.php"</code>
-</div>
-
-<div class="query">
-    <h2>2. Search HTTP Status Greater Than 200</h2>
-    <p>Finds events where the HTTP status code is greater than <strong>200</strong>.</p>
-    <code>index="http_sample" status>200</code>
-</div>
-
-<div class="query">
-    <h2>3. Search Error Responses</h2>
-    <p>Displays events with HTTP status codes of <strong>400 or higher</strong>, indicating client or server errors.</p>
-    <code>index="http_sample" status>=400</code>
-</div>
-
-<div class="query">
-    <h2>4. Search GET or POST Requests</h2>
-    <p>Finds events where the HTTP request method is either <strong>GET</strong> or <strong>POST</strong>.</p>
-    <code>index="http_sample" (method=GET OR method=POST)</code>
-</div>
-
-<div class="query">
-    <h2>5. Search by Client IP Range</h2>
-    <p>Searches for events where the client IP address begins with <strong>100.</strong>.</p>
-    <code>index="http_sample" clientip=100.*.*.*</code>
-</div>
-
-</body>
-</html>
+```bash
+index="http_sample" file="login.php"
 ```
