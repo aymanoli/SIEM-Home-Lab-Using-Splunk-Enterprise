@@ -8,8 +8,9 @@ Keep the existing log file
 ```bash
 index="http_status" | top limit=5 uri_path
 ```
-### For create a dashboard go to new dash board
+### For create a dashboard, go to the New Dashboard  in the "Save As" section
 <img width="1920" height="955" alt="Screenshot From 2026-06-27 20-46-53" src="https://github.com/user-attachments/assets/75b29d1b-eded-4c95-a976-152070ed1c5b" />
+
 ### Give the dashboard and panel title
 <img width="1920" height="955" alt="Screenshot From 2026-06-27 20-49-31" src="https://github.com/user-attachments/assets/65ae1194-adb2-43fc-a91c-762ee4f9bff7" />
 
