@@ -1,4 +1,5 @@
 <h1>Monitored and Visualize Security Events</h1>
+<hr></hr>
 <h2>Upload log file in Splunk</h2>
 <ul>
   <li>Go to setings add data</li>
